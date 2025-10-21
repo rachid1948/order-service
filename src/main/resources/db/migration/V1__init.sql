@@ -1,0 +1,1 @@
+-- TODO: créera la table product quand on passera à JPA + Flyway
